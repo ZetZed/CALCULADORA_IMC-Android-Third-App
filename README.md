@@ -1,0 +1,2 @@
+# CALCULADORA_IMC-Android-Third-App
+Olá a todos!👋 Comecei a estudar as linguagens Java e Kotlin com o propósito de aprender a criar aplicativos Android e este é o meu TERCEIRO aplicativo, segundo usando Kotlin. Se trata de um aplicativo de Calcular IMC, que ao inserir os dados (peso e altura)  e clicar no botão Calcular ele Informa o valor IBM da pessoa. É bem simples, sem um layout chamativo, mas já sinto feliz em estar aprendendo🙏
